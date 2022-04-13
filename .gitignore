@@ -1,4 +1,7 @@
 file1.txt
 power1
 out
-.gitignore
+*.gitignore
+
+
+
